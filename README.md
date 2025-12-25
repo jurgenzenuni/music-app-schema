@@ -2,7 +2,7 @@
 
 A relational database schema for a music streaming web application inspired by platforms like Spotify and Apple Music. The schema models users, subscriptions, artists, albums, songs, playlists, social features, and listening history.
 
-![Schema](Screenshot 2025-12-24 192732.png)
+<img width="1351" height="955" alt="Screenshot 2025-12-24 192732" src="https://github.com/user-attachments/assets/df770672-2ad0-4ac5-9226-9653e260e6fe" />
 
 
 ## Features
